@@ -1,0 +1,22 @@
+{
+  "name": "ringsignature-example",
+  "version": "1.0.0",
+  "description": "Sample Ring Signature code example",
+  "main": "ring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agamshah24/RingSignature-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agamshah24/RingSignature-example/issues"
+  },
+  "homepage": "https://github.com/agamshah24/RingSignature-example#readme",
+  "dependencies": {
+    "lrs": "^0.1.5"
+  }
+}
